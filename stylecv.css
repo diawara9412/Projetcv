@@ -33,7 +33,7 @@ img{
 
 .tout{
 	display: flex;
-	justify-content: space-between;
+    flex-direction: row;
 	background-image: url('') ;
 	background-color:;
 }
@@ -44,7 +44,12 @@ span{
 .tete{
 	background-color: orange;
 	border-radius: 50px;
+	
 }
 .monpage{
 	border: 1px solide orange;
+}
+.section{
+	display: flex;
+
 }
