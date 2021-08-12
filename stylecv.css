@@ -1,0 +1,50 @@
+
+button{
+	background-color: #c11a21;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px;
+}
+#bu{
+	color: white;
+}
+.section1{
+	padding-right: 40px;
+	padding-left: 40px;
+	border-left: 2px solid orange;
+	
+	border-right: 2px solid orange;
+}
+h2{
+color:orange;
+}
+h1{
+	color: #000000;
+	size: 40px;
+}
+body{
+	background-color: white;
+}
+img{
+	border-radius: 10px ;
+	width: 150px;
+	bo
+}
+
+.tout{
+	display: flex;
+	justify-content: space-between;
+	background-image: url('') ;
+	background-color:;
+}
+span{
+	font-weight: bold;
+	color: white;
+}
+.tete{
+	background-color: orange;
+	border-radius: 50px;
+}
+.monpage{
+	border: 1px solide orange;
+}
