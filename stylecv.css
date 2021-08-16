@@ -44,12 +44,15 @@ span{
 .tete{
 	background-color: orange;
 	border-radius: 50px;
-	
+
 }
 .monpage{
 	border: 1px solide orange;
 }
-.section{
-	display: flex;
 
-}
+ #phone{
+ 	color: green;
+ }
+ #what{
+ 	color: green;
+ }
